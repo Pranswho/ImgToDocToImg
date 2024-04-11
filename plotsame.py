@@ -1,7 +1,7 @@
 #pip install pytesseract
 #pip install pillow
 #pip install easyocr
-#pip install kesar-ocr
+#pip install keras-ocr
 #pip install tensorflow
 import pytesseract
 import cv2
